@@ -1,0 +1,31 @@
+body {
+    background-color: #f5f5dc;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: darkred;
+    font-size: 40px;
+}
+
+h1:hover {
+    color: orange;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: decimal;
+}
